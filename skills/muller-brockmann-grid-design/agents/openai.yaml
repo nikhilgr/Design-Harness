@@ -1,0 +1,4 @@
+interface:
+  display_name: "Muller-Brockmann Grid Design"
+  short_description: "Build and audit rigorous typographic grids"
+  default_prompt: "Use $muller-brockmann-grid-design to design a content-led grid system for this layout."

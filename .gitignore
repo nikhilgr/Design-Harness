@@ -1,0 +1,19 @@
+# Local machine and dependency files
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.pnpm-store/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Project artifacts and references stay local in this harness repository
+/outputs/*
+!/outputs/README.md
+/examples/*
+!/examples/README.md
+/sources/
+/benchmarks/
+/.archive/
