@@ -23,7 +23,7 @@ For a new reusable style family, start with representative subjects at their act
 
 ## Project and review
 
-Follow [output guidance](../../outputs/README.md): save under `outputs/illustrations/<ProjectName>/`, with source in `source/`, media/fonts in `assets/`, final PNGs in `exports/`, and review pages in `review/`. Use a meaningful user-approved project name. Preserve previous approved output when revising.
+Follow [output guidance](../../OUTPUT_GUIDANCE.md): save under `outputs/illustrations/<ProjectName>/`, with source in `source/`, media/fonts in `assets/`, final PNGs in `exports/`, and review pages in `review/`. Use a meaningful user-approved project name. Preserve previous approved output when revising.
 
 If interactive review is requested, use the installed Human Review skill on an HTML sheet containing exported images, editable captions, and stable image labels. Carry feedback into the drawing source and re-export. Human Review can resize, move, or comment on the image; it does not edit its internal strokes. Keep review-only instructions out of final artwork.
 

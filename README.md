@@ -1,6 +1,6 @@
 # Design Harness
 
-A reusable creative workspace for exploring, comparing, building, and inspecting design across media. It has no default aesthetic, medium, or design profile.
+A reusable creative workspace for reference-led design: faithful reproduction, focused adaptation, and inspiration from supplied assets. Broaden exploration only when requested; apply design profiles only when explicitly selected.
 
 ## Start here
 
@@ -30,6 +30,8 @@ Run with Python 3:
 
 ```sh
 python3 scripts/verify_design_harness.py
+# In a Git checkout, validate tracked publishing contents after staging changes:
+python3 scripts/verify_design_harness.py --tracked
 ```
 
-The check validates required files, skill metadata, and framework links. Artistic quality and functional behavior require inspection in the appropriate medium.
+The check validates required files, skill metadata, and local links and Markdown heading anchors throughout the documentation. Tracked mode prevents untracked local files from masking missing published targets. External URLs are not fetched. Artistic quality and functional behavior require inspection in the appropriate medium.
