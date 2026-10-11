@@ -9,11 +9,9 @@ node_modules/
 .env.*
 !.env.example
 
-# Project artifacts and references stay local in this harness repository
-/outputs/*
-!/outputs/README.md
-/examples/*
-!/examples/README.md
+# Project artifacts and video references stay local
+/outputs/
+/examples/Product Demo Video References/
 /sources/
 /benchmarks/
 /.archive/

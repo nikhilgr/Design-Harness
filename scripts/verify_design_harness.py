@@ -10,7 +10,7 @@ REQUIRED = [
     "AGENTS.md",
     "DESIGN_RULES.md",
     "examples/README.md",
-    "outputs/README.md",
+    "OUTPUT_GUIDANCE.md",
 ]
 
 # Skills are optional methods, not mandatory prerequisites for every medium.
