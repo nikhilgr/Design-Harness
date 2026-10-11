@@ -1,0 +1,12 @@
+GENIE v1 — PROMOTION AND EXPORT CHECKS
+October 11, 2026
+
+Approval: user approved the fidelity pass and explicitly authorized promotion, clean exports and indexing. During packaging, user requested refinement of frame 09 source icons. Corrected the stack in both the visible review board and the approved master. Original pre-refinement export retained under outputs/genie-product-reference-review/review/v2/priority-before-icon-refinement.png.
+
+Paper: cloned the approved composition set into a named v1 master. Changed status labels and index copy only; source evidence rails remain available in Paper. Exported only the native artwork groups at 2x, not the surrounding review columns. Checked revised introduction and conversation artboard for text fit. Frame 09 inspected at composition size and icon-detail size after refinement. Frame 07 inspected at 2x; no alignment or repeated-icon defect observed, so its artwork is unchanged.
+
+Export checks: 12 real PNG files, 1920px wide, expected source-proportional heights. PNG signatures, dimensions, all chunk CRCs and decompressed image streams verified. SHA-256 digests recorded in manifest.json. Final PNG exports for frame 03 Document Canvas, frame 05 Data Tables, and frame 09 Priority Recommendation visually inspected at native resolution. All 12 compositions had already been visually reviewed in Paper during the preceding fidelity pass; unchanged exports were not independently re-reviewed one by one.
+
+Verdict: source hierarchy, contrast, repeated lanes and artboard fit retained; revised frame 09 now has a compact overlapping stack, matching dashboard symbols, lighter outlines, equal circular icon slots and a consistent baseline. Composite labels remain visible in frames 02, 07 and 08. Dense document body requires full-width reading. No claim of exact source font or pixel-perfect subtle effects.
+
+Representation: user-approved creative reconstructions, not verified live product captures. No external business actions occurred. Prior sampled-video review is preserved; no new normal-speed playback review.

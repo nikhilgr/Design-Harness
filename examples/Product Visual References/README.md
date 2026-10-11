@@ -40,3 +40,7 @@ Stable IDs identify the originals in review notes. Each filename links to the im
 Common observations are large UI crops, quiet outer fields, selective context, and soft separation between layers. Exceptions matter: S21 preserves broad context, S03–S04 contain marks rather than screens, and S01/S05 communicate breadth through deliberate density. Orange, pale green, serif headlines, starburst marks, pixel characters, and large illustrated pointers are visible reference styling, not universal requirements or Databricks tokens.
 
 No reference has been selected as the user's preferred direction, and no Databricks candidate has been evaluated. Add future selections and rejections to the relevant project's review notes; keep this source index descriptive.
+
+## Approved Genie creative references
+
+[Genie v1 — 12 assets](Genie/v1/README.md) is a separately indexed, user-approved set of editable reconstructions from supplied Genie imagery. Includes a Paper master, clean 1920px-wide PNGs, source mappings and usage notes. This set is distinct from the 22 presentation references above; approval is for creative use, not certification of live product behavior.

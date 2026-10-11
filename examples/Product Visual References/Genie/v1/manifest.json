@@ -1,0 +1,239 @@
+{
+  "version": "1.0",
+  "approvedDate": "2026-10-11",
+  "approval": "User: \"i like it\" / \"love it. proceed\" after proposal to promote, export and index.",
+  "status": "approved-creative-reference",
+  "editableMaster": "https://app.paper.design/file/01M4NT596EPTM9TJ7VEX6DWSN4/p-1-0",
+  "reviewBoard": "https://app.paper.design/file/01M4MPSQSQB852YSAABJG24ERR/p-1-0",
+  "sourcePackage": "../../../../outputs/genie-product-reference-review/",
+  "export": "Native Paper PNG export, 2x, 1920px wide; no review columns. Sequence labels retained.",
+  "limits": [
+    "Exact original font not verified; Google Sans retained as visual approximation.",
+    "Decorative curves, gradients, shadows and generic line icons reconstructed.",
+    "Actual modern Workspace artwork can differ from older simplified source icons.",
+    "Dense Document Canvas inspected and saved at 1920px wide; 960px view is for composition, not detailed reading.",
+    "Promotional reference reproduction is not certification of shipping UI or implementation."
+  ],
+  "assets": [
+    {
+      "id": "G01",
+      "category": "Genie One Conversations",
+      "file": "assets/genie-01-conversations@2x.png",
+      "pixels": [
+        1920,
+        964
+      ],
+      "paperNodeId": "G-0",
+      "paperArtboardId": "A-0",
+      "sourceAttachments": [
+        1
+      ],
+      "sourceTimestamp": "00:19",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Prompt-to-answer storytelling; retain the meeting context and citations.",
+      "sha256": "f68078686295e004f8eaf46e2c13dedbb54b2c5f1fa03ef0e95e5a44deb9b6c4"
+    },
+    {
+      "id": "G02",
+      "category": "Genie One Thinking Steps",
+      "file": "assets/genie-02-thinking-steps-composite@2x.png",
+      "pixels": [
+        1920,
+        1520
+      ],
+      "paperNodeId": "1M-0",
+      "paperArtboardId": "1G-0",
+      "sourceAttachments": [
+        6,
+        7
+      ],
+      "sourceTimestamp": "00:31",
+      "representation": "Labeled editorial sequence assembled from successive source states; not one live screen",
+      "usage": "Expanded research progression; retain the editorial-sequence label.",
+      "sha256": "a5be59c9edba8050be5393e8c15c4431b378c893203215159da8f7ca124d92e2"
+    },
+    {
+      "id": "G03",
+      "category": "Genie One Document Canvas",
+      "file": "assets/genie-03-document-canvas@2x.png",
+      "pixels": [
+        1920,
+        1060
+      ],
+      "paperNodeId": "36-0",
+      "paperArtboardId": "30-0",
+      "sourceAttachments": [
+        11
+      ],
+      "sourceTimestamp": "01:04",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Conversation-to-document workflow; use 1920px-wide display for body copy.",
+      "sha256": "b49eb3e04e4564952671177a22a66b968161dd031a4e2ae5409dc6e07c645397"
+    },
+    {
+      "id": "G04",
+      "category": "Genie Data Dashboards",
+      "file": "assets/genie-04-data-dashboards@2x.png",
+      "pixels": [
+        1920,
+        1290
+      ],
+      "paperNodeId": "4W-0",
+      "paperArtboardId": "4Q-0",
+      "sourceAttachments": [
+        2
+      ],
+      "sourceTimestamp": "00:20",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Executive summary and two chart types; preserve source values and chart relationships.",
+      "sha256": "f92b822bea4da8224b5c1aa7c4802e0539cba74aad1e0b71de3dc07150b25e4d"
+    },
+    {
+      "id": "G05",
+      "category": "Genie Data Tables",
+      "file": "assets/genie-05-data-tables@2x.png",
+      "pixels": [
+        1920,
+        894
+      ],
+      "paperNodeId": "6S-0",
+      "paperArtboardId": "6M-0",
+      "sourceAttachments": [
+        3
+      ],
+      "sourceTimestamp": "00:22",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Vendor comparison and action categories; preserve row alignment and exact depicted values.",
+      "sha256": "e336b1bbc79622aed7c109096d6ee3a2e0764b6a450b1dcf6587a077e5d76cd6"
+    },
+    {
+      "id": "G06",
+      "category": "Genie Data Sources",
+      "file": "assets/genie-06-data-sources@2x.png",
+      "pixels": [
+        1920,
+        578
+      ],
+      "paperNodeId": "7L-0",
+      "paperArtboardId": "7F-0",
+      "sourceAttachments": [
+        4
+      ],
+      "sourceTimestamp": "00:23",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Evidence provenance across files and SaaS apps; use actual provider marks.",
+      "sha256": "2da4f56fecbc7523b8cbd6a60bfd4364abc94de65a3c144018ef0c98359aed53"
+    },
+    {
+      "id": "G07",
+      "category": "Genie Ontology Snippets",
+      "file": "assets/genie-07-ontology-snippets-composite@2x.png",
+      "pixels": [
+        1920,
+        1520
+      ],
+      "paperNodeId": "9G-0",
+      "paperArtboardId": "9A-0",
+      "sourceAttachments": [
+        6,
+        7
+      ],
+      "sourceTimestamp": "00:31",
+      "representation": "Labeled editorial sequence assembled from successive source states; not one live screen",
+      "usage": "Ontology reference discovery; titles are visible, snippet bodies are not supplied.",
+      "sha256": "3470bc8956075da40b2567bd34213fa5378331f8483d157e8aca20a3d941421e"
+    },
+    {
+      "id": "G08",
+      "category": "Genie Unity Permission Checks",
+      "file": "assets/genie-08-unity-permission-checks-composite@2x.png",
+      "pixels": [
+        1920,
+        1520
+      ],
+      "paperNodeId": "BF-0",
+      "paperArtboardId": "B9-0",
+      "sourceAttachments": [
+        6,
+        7
+      ],
+      "sourceTimestamp": "00:33",
+      "representation": "Labeled editorial sequence assembled from successive source states; not one live screen",
+      "usage": "Governance-check story; preserve composite label, avoid implying verified policies or access results.",
+      "sha256": "e743b9e5f14fe285183431684786f0efe1d174df016b151a4a5d7095e84c7eec"
+    },
+    {
+      "id": "G09",
+      "category": "Supporting / Priority Recommendation",
+      "file": "assets/genie-09-priority-recommendation@2x.png",
+      "pixels": [
+        1920,
+        848
+      ],
+      "paperNodeId": "CX-0",
+      "paperArtboardId": "CR-0",
+      "sourceAttachments": [
+        8
+      ],
+      "sourceTimestamp": "00:36",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Focused recommendation with evidence count; keep bold finding and source cue.",
+      "sha256": "7267c755c7a6e94d99dbd4d247bf4038c8447886bce1d1089dd10783e86b0747",
+      "refinement": "User-requested source-icon polish: compact overlap, matching dashboard symbols, consistent sizes and lighter outlines."
+    },
+    {
+      "id": "G10",
+      "category": "Supporting / Evidence-linked Insights",
+      "file": "assets/genie-10-evidence-linked-insights@2x.png",
+      "pixels": [
+        1920,
+        1046
+      ],
+      "paperNodeId": "E2-0",
+      "paperArtboardId": "DW-0",
+      "sourceAttachments": [
+        9
+      ],
+      "sourceTimestamp": "00:58",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Three evidence-linked findings; keep each citation attached to its finding.",
+      "sha256": "019e240dbb374d16ae165503aea5cbefc21a1c2e975959729547592ca792b47e"
+    },
+    {
+      "id": "G11",
+      "category": "Supporting / Recommended Actions",
+      "file": "assets/genie-11-recommended-actions@2x.png",
+      "pixels": [
+        1920,
+        1168
+      ],
+      "paperNodeId": "FG-0",
+      "paperArtboardId": "FA-0",
+      "sourceAttachments": [
+        10
+      ],
+      "sourceTimestamp": "01:03",
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Recommendations linked to artifacts and outcomes; depicted actions are static demo content.",
+      "sha256": "b9ec7f7cc1f30a0b56e72113f5a61bf724081e2a6a7c0acb207e14b2064f9c6a"
+    },
+    {
+      "id": "G02A",
+      "category": "Genie One Thinking \u2014 compact companion",
+      "file": "assets/genie-02a-thinking-compact@2x.png",
+      "pixels": [
+        1920,
+        970
+      ],
+      "paperNodeId": "11D-0",
+      "paperArtboardId": "113-0",
+      "sourceAttachments": [
+        5
+      ],
+      "sourceTimestamp": null,
+      "representation": "Editable reconstruction of supplied promotional reference",
+      "usage": "Compact in-progress conversation; preserve prompt, Thinking label and research bar.",
+      "sha256": "288f1a02f33bbbb2798df7dbbb1ad5431fc38c35fd7231b0cdab3cd9ba14bba2"
+    }
+  ]
+}

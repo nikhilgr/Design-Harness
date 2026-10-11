@@ -20,7 +20,7 @@ Use this repository as a workspace or copy its harness files into a project. Rea
 - [Hand-drawn illustration](skills/hand-drawn-illustration/SKILL.md)
 - [Hand-drawn Canvas animation](skills/hand-drawn-canvas-animation/SKILL.md), with reusable assets, examples, and rendering helpers
 
-Skills are optional methods. Their own examples and assets are included because they support reuse. The 22 supplied [product reference images](<examples/Product Visual References/README.md>) and optional [Databricks design profile](<Design systems/Databricks-Design/README.md>) are included. Product video references, the entire outputs folder, generated project artwork, benchmarks, and archives are excluded. Reference-image provenance and interpretation limits are documented in the image index; the repository license does not establish rights to third-party reference images.
+Skills are optional methods. Their own examples and assets are included because they support reuse. The 22 supplied [product reference images](<examples/Product Visual References/README.md>), the 12 approved [Genie reference images](<examples/Product Visual References/Genie/v1/README.md>), and optional [Databricks design profile](<Design systems/Databricks-Design/README.md>) are included. Product video references, the entire outputs folder, generated project artwork, benchmarks, and archives are excluded. Reference-image provenance and interpretation limits are documented in the image index; the repository license does not establish rights to third-party reference images.
 
 The Canvas animation snapshot records its upstream source and file hashes in [source-manifest.json](skills/hand-drawn-canvas-animation/source-manifest.json). Individual method files retain their source references.
 
